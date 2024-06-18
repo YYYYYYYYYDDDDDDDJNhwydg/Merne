@@ -1,0 +1,38 @@
+npm install pg bcrypt jsonwebtoken express-validator multer cors
+
+.\psql -U postgres -d mern
+ psql \! chcp 1251
+ \dt
+ select * from users;
+
+
+
+
+
+
+----------------------------------------------------
+
+npx create-react-app .
+
+npm install @emotion/react
+npm install @emotion/styled
+npm install @mui/icons-material
+npm install @mui/material
+npm install @reduxjs/toolkit
+npm install @testing-library/jest-dom
+npm install @testing-library/react
+npm install @testing-library/user-event
+npm install axios
+npm install clsx
+npm install easymde
+npm install prettier
+npm install react
+npm install react-dom
+npm install react-hook-form
+npm install react-markdown
+npm install react-redux
+npm install react-router-dom
+npm install react-scripts
+npm install react-simplemde-editor
+npm install sass
+npm install web-vitals
